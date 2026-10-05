@@ -1,16 +1,87 @@
-## Hi there 👋
+# Привет, я Глеб 👋
 
-<!--
-**GlebFr/GlebFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Python Developer** из Дубны (Московская область).
 
-Here are some ideas to get you started:
+Учусь на бакалавриате «Программная инженерия» в Государственном университете «Дубна».
+Люблю писать на Python, делать Telegram-ботов и небольшие игры на Pygame.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Навыки
+
+**Языки программирования**
+- Python
+- C#
+
+**Библиотеки и фреймворки**
+- Flask
+- Pygame
+- Aiogram / python-telegram-bot (если использовал)
+
+**Базы данных**
+- SQL (SQLite)
+
+**Инструменты**
+- Git, GitHub
+- PyCharm, Visual Studio, VS Code
+- Postman
+
+**ОС**
+- Ubuntu, macOS, Windows
+
+**Другое**
+- Microsoft Office
+- Английский — разговорный
+
+---
+
+## 🚀 Проекты
+
+### 🤖 Telegram-бот с ИИ (GigaChat)
+Telegram-бот с интеграцией нейросети GigaChat от Сбера.
+
+- Разработал логику уведомлений и взаимодействия с пользователем.
+- Провёл тестирование бота с ИИ-агентом.
+- Стек: Python, Flask, SQLite, Postman.
+
+🔗 Бот: [@donotforget_notification_bot](https://t.me/donotforget_notification_bot)
+
+---
+
+### ✈️ 2D-игра «Самолёт против кораблей»
+Аркадная 2D-игра на Python с использованием Pygame.
+
+- Управление самолётом, система полёта и физика движения.
+- Враги (корабли), столкновения и уничтожение целей.
+- Игровой цикл: меню, уровень, победа/поражение.
+- Счёт очков и анимация.
+
+🔗 Репозиторий: [github.com/GlebFr/...](https://github.com/GlebFr)
+
+---
+
+## 🎓 Образование
+
+**Государственный университет «Дубна»**  
+Бакалавриат, «Программная инженерия»  
+2026 — настоящее время
+
+**Яндекс Лицей**  
+Программа «Основы программирования на языке Python»  
+Сентябрь 2023 — апрель 2024  
+Сертификат № 2301183167
+
+**Курсы на Stepik**  
+2022 — 2023
+
+---
+
+## 📫 Контакты
+
+- **Email:** glebmfrolov@gmail.com
+- **Telegram:** [@donotforget_notification_bot](https://t.me/donotforget_notification_bot) (или свой личный ник)
+- **GitHub:** [github.com/GlebFr](https://github.com/GlebFr)
+
+---
+
+⭐️ Буду рад сотрудничеству и обратной связи!
